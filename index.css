@@ -1,0 +1,132 @@
+*{
+    background-color: rgb(83, 78, 78);
+}
+#maindiv{
+    height: 580px;
+    width: 450px;
+   
+    position: relative;
+    left: 190px;
+}
+#container{
+    height: 580px;
+    width: 450px;
+
+    position: relative;
+    bottom: 582px;
+    left: 640.5px;
+    background-color: rgb(83, 78, 78);
+}
+#mobilediv{
+    height: 560px;
+    width: 300px;
+    border: 1px solid white;
+    position: relative;
+    top: 8.8px;
+    border-radius: 18px;
+    background-color: rgb(63, 67, 67);
+    
+}
+#build{
+    font-size: 60px;
+    color: white;
+    position: relative;
+    bottom: 55px;
+    background-color: rgb(83, 78, 78);
+    
+}
+#iphone{
+    background-color: rgb(83, 78, 78);
+    font-size: 97px;
+    color: white;
+    position: relative;
+    bottom: 200px;
+}
+#calculator{
+    background-color: rgb(83, 78, 78);
+    font-size: 97px;
+    color: white;
+    position: relative;
+    bottom: 360px;
+}
+#in{
+    background-color: rgb(83, 78, 78);
+    font-size: 60px;
+    color: white;
+    position: relative;
+    bottom: 500px;
+}
+#javascript{
+    background-color: rgb(83, 78, 78);
+    font-size: 80px;
+    color: yellow;
+    position: relative;
+    bottom: 645px;
+    left: 60px;
+}
+#time{
+    margin-right: 250px;
+    position: relative;
+    bottom: 15px;
+    color: white;
+    background-color: rgb(63, 67, 67);
+    border-radius: 5px;
+}
+#grid{
+    height: 350px;
+    width: 280px;
+    position: relative;
+    top: 60px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: rgb(63, 67, 67)
+}
+#div1,#div2,#div3,#div4,#div5,#div6,#div7,#div8,#div9,#div10,#div11,#div12,#div13,#div14,#div15,#div16,#div17,#div18,#div19{
+    height: 50px;
+    width: 50px;
+    border: 1px solid white;
+    border-radius:50% ;
+    background-color: rgb(63, 67, 67)
+}
+#div4,#div8,#div12,#div16,#div19{
+    background-color: orange;
+}
+#minus,#plus,#equal,#divide,#multy{
+    background-color: orange;
+}
+#div1,#div2,#div3{
+    background-color: dimgrey;
+}
+#plusequal,#ac,#percent{
+    background-color: dimgrey;
+}
+#button{
+    background-color: rgb(147, 152, 139);
+}
+#div5,#div6,#div7,#div9,#div10,#div11,#div13,#div14,#div15,#div17,#div18{
+    background-color: rgb(147, 152, 139);
+}
+#total{
+    height: 50px;
+    width: 250px;
+    position: relative;
+    top: 25px;
+    background-color: rgb(63, 67, 67)
+}
+#totalnum{
+    position: relative;
+    left: 25px;
+    font-size: 55px;
+    bottom: 10px;
+    background-color: rgb(63, 67, 67);
+    color: white;
+}
+#battery{
+    height: 8px;
+    width: 20px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 45px;
+    left: 120px;
+    background-color: white;
+}
